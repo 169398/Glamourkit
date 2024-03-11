@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Glamourkit Waiting List 📋
 
-## Getting Started
+Thank you for your interest in Glamourkit!
 
-First, run the development server:
+To join our waiting list and be notified when we launch, please provide your email address in the form on our landing page.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Stay Updated 📢
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Follow us on social media for the latest updates and announcements:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Twitter](https://twitter.com/Glamourkitke) 🐦
+- [Facebook](https://facebook.com/glamourkit) 📘
+- [Instagram](https://www.instagram.com/glamourkitke/) 📸
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contact Us 📧
 
-## Learn More
+If you have any questions or inquiries, please email us at [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com).
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+We can't wait to bring Glamourkit to you! 🎉
