@@ -8,9 +8,9 @@ To join our waiting list and be notified when we launch, please provide your ema
 
 Follow us on social media for the latest updates and announcements:
 
-- [Twitter](https://twitter.com/YourTwitterHandle) 🐦
-- [Facebook](https://facebook.com/YourFacebookPage) 📘
-- [Instagram](https://instagram.com/YourInstagramHandle) 📸
+- [Twitter](https://twitter.com/Glamourkitke) 🐦
+- [Facebook](https://facebook.com/glamourkit) 📘
+- [Instagram](https://www.instagram.com/glamourkitke/) 📸
 
 ## Contact Us 📧
 
